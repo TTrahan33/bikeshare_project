@@ -10,6 +10,10 @@ bikeshare project
 Python program that uses numpy and pandas to answer questions about bikeshare data
 for 3 major cities (contained in 3 csv files). This is a command line interface
 program that asks for user input to create the query against the csv selected.
+Based on user input, this program will calculate basic statistics for bikeshare
+data for the city selected (New York City, Washington, Chicago).  The csv records
+were provided by Udacity and are not included in the remote repository.
+
 
 ### Files used
 Include the files used
