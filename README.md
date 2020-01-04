@@ -1,15 +1,25 @@
 ### Date created
 Include the date you created this project and README file.
+Created 1/4/20
 
 ### Project Title
-Replace the Project Title
+bikeshare project
+
 
 ### Description
-Describe what your project is about and what it does
+Python program that uses numpy and pandas to answer questions about bikeshare data
+for 3 major cities (contained in 3 csv files). This is a command line interface
+program that asks for user input to create the query against the csv selected.
 
 ### Files used
 Include the files used
+bikeshare_data.py
+chicago.csv
+new_york_city.csv
+washington.csv
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The Udacity project repo on github was cloned, and the csv records were provided by
+Udacity
