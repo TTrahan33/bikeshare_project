@@ -25,5 +25,5 @@ washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-The Udacity project repo on github was cloned, and the csv records were provided by
-Udacity
+The Udacity project repo on github was cloned from https://github.com/udacity/pdsnd_github
+ and the csv records were provided by Udacity.
