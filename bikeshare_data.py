@@ -190,9 +190,13 @@ def show_raw_data(df):
     while True:
         rawdata = input('Would you like to see 5 lines of the raw data? Enter yes or no.\n').lower()
         if rawdata == 'yes':
-            print(df[start:end])
-            start += 5
-            end += 5
+            try:
+                print(df[start:end])
+                start += 5
+                end += 5
+            except:
+                print("End of file reached.  No more raw data avaialble.")
+
         else:
             break
 
