@@ -196,6 +196,7 @@ def show_raw_data(df):
                 end += 5
             except:
                 print("End of file reached.  No more raw data avaialble.")
+                break
 
         else:
             break
