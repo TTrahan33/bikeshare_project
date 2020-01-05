@@ -4,6 +4,7 @@ Created 1/4/20
 
 ### Project Title
 bikeshare project
+Resubmission 1/5/20
 
 
 ### Description
@@ -14,7 +15,7 @@ Based on user input, this program will calculate basic statistics for bikeshare
 data for the city selected (New York City, Washington, Chicago).  The csv records
 were provided by Udacity and are not included in the remote repository.
 
-
+Resubmission to capture commits using Udacity git style guide
 ### Files used
 Include the files used
 bikeshare_data.py
@@ -26,4 +27,6 @@ washington.csv
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 The Udacity project repo on github was cloned from https://github.com/udacity/pdsnd_github
- and the csv records were provided by Udacity.
+and the csv records were provided by Udacity.
+
+Git style guide provided by Udacity at https://udacity.github.io/git-styleguide/
